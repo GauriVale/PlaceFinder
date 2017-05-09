@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Place Finder</string>
+    <string name="et_hint_search">Enter Place to Search</string>
+    <string name="msg_loading">Loading&#8230;</string>
+    <string name="msg_downloading">Downloading&#8230;</string>
+    <string name="msg_download_fail">File Download fail</string>
+    <string name="msg_download_success">File downloaded at location %s</string>
+
+</resources>
